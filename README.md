@@ -5,6 +5,8 @@ Our project allows users to explore cultural heritage sites in real-time through
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
+Note that our experince has two parts: a AR user and a VR user collaborating at the same (real/virtual) environment. At the moment we hardcoded area near Euston Tap (London, UK) for this demo. If you would like to try it out yourself, you will need to adapt the origin of lattitude and longtitude to your own location, see instructions below.
+
 ### Prerequisites
 Unity (Tested under Version 2021.3.24)
 Android Phone supporting ARCore (tested on Pixel 6)
@@ -41,6 +43,10 @@ Clone the repo:
 The scene file for AR and VR project are located at `Assets/Scenes/Start Here.unity`
 
 For VR, the scene file is located at   `Assets/Ubiq/Assets/Samples/Start Here.unity`
+
+The compiled APK are avaliable at:
+
+https://drive.google.com/drive/folders/1qKqXZPs9xv7-5K9OMOk6XaUtLWwJ3DqZ?usp=sharing
 
 #### VR setup:
 Change the longtitude and lattitude origin value of CesiumGeoreference property to your local position.
