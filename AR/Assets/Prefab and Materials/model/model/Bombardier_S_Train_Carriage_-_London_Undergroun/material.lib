@@ -1,0 +1,182 @@
+# Aspose.3D Wavefront OBJ Exporter
+# Copyright 2004-2023 Aspose Pty Ltd.
+# File created: 10/17/2023 13:26:56
+
+newmtl Roof_Black
+	illum 2
+	Kd 0.00719336979091167 0.00719336979091167 0.00719336979091167
+	Ke 0 0 0
+	Pr 0.80000001192092896
+	Pm 0
+	d 1
+	Tr 0
+newmtl White
+	illum 2
+	Kd 1 0.91854202747344976 0.7765629887580872
+	Ke 0 0 0
+	Pr 1
+	Pm 0
+	d 1
+	Tr 0
+newmtl Blue
+	illum 2
+	Kd 0 0.00273175002075731 0.40724000334739688
+	Ke 0 0 0
+	Pr 0
+	Pm 0
+	d 1
+	Tr 0
+newmtl Grey
+	illum 2
+	Kd 0.25683000683784484 0.25683000683784484 0.25683000683784484
+	Ke 0 0 0
+	Pr 1
+	Pm 0.10000000149011612
+	d 1
+	Tr 0
+newmtl Black_Plastic_Glossy
+	illum 2
+	Kd 0 0 0
+	Ke 0 0 0
+	Pr 0
+	Pm 0
+	d 1
+	Tr 0
+newmtl Cream
+	illum 2
+	Kd 0.34742501378059388 0.31996500492095948 0.27199101448059084
+	Ke 0 0 0
+	Pr 0
+	Pm 0
+	d 1
+	Tr 0
+newmtl material
+	illum 2
+	Kd 0.7304610013961792 0.01520839985460043 0.00518153002485632
+	Ke 0 0 0
+	Pr 0
+	Pm 0
+	d 1
+	Tr 0
+newmtl Black_Plastic_Matt
+	illum 2
+	Kd 0 0 0
+	Ke 0 0 0
+	Pr 0.5
+	Pm 0
+	d 1
+	Tr 0
+newmtl Button_Silver
+	illum 2
+	Kd 0.57047599554061888 0.57047599554061888 0.57047599554061888
+	Ke 0 0 0
+	Pr 1
+	Pm 0.88461500406265264
+	d 1
+	Tr 0
+newmtl Material_001
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.5
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd Material.001_baseColor.jpg
+newmtl Glass
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0
+	Pm 0
+	d 1
+	Tr 0
+newmtl Grey_001
+	illum 2
+	Kd 0.25683000683784484 0.25683000683784484 0.25683000683784484
+	Ke 0 0 0
+	Pr 0.19230799376964568
+	Pm 0.10000000149011612
+	d 1
+	Tr 0
+newmtl Front_Yellow
+	illum 2
+	Kd 1 0.4910210072994232 0.11443500220775604
+	Ke 0 0 0
+	Pr 0
+	Pm 0
+	d 1
+	Tr 0
+newmtl Silver_Gold
+	illum 2
+	Kd 0.25717300176620484 0.18612599372863768 0.0841187983751297
+	Ke 0 0 0
+	Pr 1
+	Pm 0.88461500406265264
+	d 1
+	Tr 0
+newmtl Wheels
+	illum 2
+	Kd 0.01220379956066608 0.0057391501031816 0
+	Ke 0 0 0
+	Pr 0.69685298204422
+	Pm 0.88461500406265264
+	d 1
+	Tr 0
+newmtl Material
+	illum 2
+	Kd 0.80000001192092896 0.80000001192092896 0.80000001192092896
+	Ke 0 0 0
+	Pr 0.5
+	Pm 0
+	d 1
+	Tr 0
+newmtl Underground_Logo
+	illum 2
+	Kd 1 1 1
+	Ke 0 0 0
+	Pr 0.5
+	Pm 0
+	d 1
+	Tr 0
+	map_Kd Underground_Logo_baseColor.jpg
+newmtl Sign_Background
+	illum 2
+	Kd 0.0281141996383667 0.02246839925646782 0.01629129983484745
+	Ke 0 0 0
+	Pr 0
+	Pm 0.10000000149011612
+	d 1
+	Tr 0
+newmtl Copper
+	illum 2
+	Kd 0.07817959785461426 0.02363169938325882 0.00783098954707384
+	Ke 0 0 0
+	Pr 0.69685298204422
+	Pm 0.88461500406265264
+	d 1
+	Tr 0
+newmtl Poles
+	illum 2
+	Kd 1 0.5555099844932556 0.01679879985749721
+	Ke 0 0 0
+	Pr 0
+	Pm 0
+	d 1
+	Tr 0
+newmtl Button_Silver_001
+	illum 2
+	Kd 0.17142543196678162 0.17142543196678162 0.17142543196678162
+	Ke 0 0 0
+	Pr 1
+	Pm 0.88461500406265264
+	d 1
+	Tr 0
+newmtl Lit_Sign
+	illum 2
+	Kd 0.80000001192092896 0.1848749965429306 0
+	Ke 0 0 0
+	Pr 0.5
+	Pm 0
+	d 1
+	Tr 0
