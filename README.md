@@ -48,12 +48,14 @@ The compiled APK are avaliable at:
 
 https://drive.google.com/drive/folders/1qKqXZPs9xv7-5K9OMOk6XaUtLWwJ3DqZ?usp=sharing
 
-#### VR setup:
-Change the longtitude and lattitude origin value of CesiumGeoreference property to your local position.
 
+#### Unity setup:
 
-#### AR setup:
-Change the longtitude and lattitude origin value of ARGeospatialCreatorOrigin property to your local position.
+- VR: Change the longtitude and lattitude origin value of `CesiumGeoreference` property to your local position.
+
+- AR: Change the longtitude and lattitude origin value of `ARGeospatialCreatorOrigin` property to your local position.
+
+- Make sure the two local position are exactly the same, as well as the local unity transform for the local assests, such as the Arch.
 
 ### Usage
 
