@@ -38,7 +38,7 @@ RenderSettings:
   m_ReflectionIntensity: 1
   m_CustomReflection: {fileID: 0}
   m_Sun: {fileID: 0}
-  m_IndirectSpecularColor: {r: 0.44402242, g: 0.49316543, b: 0.5722324, a: 1}
+  m_IndirectSpecularColor: {r: 0.44657898, g: 0.4964133, b: 0.5748178, a: 1}
   m_UseRadianceAmbientProbe: 0
 --- !u!157 &3
 LightmapSettings:
@@ -3250,22 +3250,22 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   ECEF:
-    x: 3976488.328940914
-    y: -8827.306174068532
-    z: 4970466.911937402
+    x: 3976566.428473709
+    y: -8412.984733490654
+    z: 4970563.991579215
   EUN:
-    x: 320
-    y: 240
+    x: 734.5
+    y: 364
     z: 0
   EUS:
-    x: 320
-    y: 240
+    x: 734.5
+    y: 364
     z: -0
   shouldPosition: 1
   AltType: 0
-  _latitude: 51.526899909401294
-  _longitude: -0.1271892473025619
-  _altitude: 309.00801054950523
+  _latitude: 51.52689952270292
+  _longitude: -0.1212170871109864
+  _altitude: 433.04220243464107
   _altitudeOffset: 0
   _geoRefLatitude: 51.5269
   _geoRefLongitude: -0.1318
@@ -9330,7 +9330,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _showCreditsOnScreen: 0
   _tilesetSource: 1
-  _url: https://tile.googleapis.com/v1/3dtiles/root?key=AIzaSyBsaGW0zXuYYkwK6vXnXW0KpnmbpXhfmvc
+  _url: 'https://tile.googleapis.com/v1/3dtiles/root?key= '
   _ionAssetID: 0
   _ionAccessToken: 
   _maximumScreenSpaceError: 16
