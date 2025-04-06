@@ -44,10 +44,17 @@ The scene file for AR and VR project are located at `Assets/Scenes/Start Here.un
 
 For VR, the scene file is located at   `Assets/Ubiq/Assets/Samples/Start Here.unity`
 
-The compiled APK are avaliable at:
+You will need your own Cesium ion api key on for loading VR 3D model Tiles. 
 
-https://drive.google.com/drive/folders/1qKqXZPs9xv7-5K9OMOk6XaUtLWwJ3DqZ?usp=sharing
+Start Here-> CesiumGeoreference -> Google PhotoRealistic 3D Tiles -> Cesium 3D Tileset->ion Access Token
 
+Detials for gettign the token: https://ion.cesium.com/signin/tokens
+
+For AR localizaiton and accessing Maps, you will need a Google Spatial service API.
+
+You will also need Google Map Tiles API and ARCore Geospatial API. They need to be in your apk so that your phone can load the cloud service.
+
+https://developers.google.com/ar/geospatialcreator/unity/quickstart
 
 #### Unity setup:
 
